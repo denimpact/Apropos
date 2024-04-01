@@ -1,0 +1,9 @@
+{
+    "java+.runConfig.cwd": "Pom.xml",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Jama-1.0.2.jar",
+        "mini-projet CSI Douanla emelong nelson.jar",
+        "c:\\Users\\Nelson\\Downloads\\Jama-1.0.2.jar"
+    ]
+}

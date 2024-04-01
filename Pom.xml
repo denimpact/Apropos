@@ -1,0 +1,11 @@
+<dependencies>
+<dependency>
+  <groupld>
+    </groupld>
+      <groupld>org.math</groupld>
+      <artifactld>jama</artifactld>
+      <version>0.26.1</version>
+    </dependency>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </dependencies>

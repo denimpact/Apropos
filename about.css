@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    background-color:none;
+    }
+    .headeer{
+    display: flex;
+    justify-content: center;
+    width:none;
+    font-size: 50px ;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    height: 5vh;
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.9), 0 5px 5px 0 rgba(0, 0, 0, 0.90);
+}
+ .mission{
+    display: flex;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+ }
+   .id{
+     display: flex;
+     font-size:20px ;
+     height: auto;
+     margin: auto;
+     padding-left: 20px;
+   }
+     .valeur{
+        margin:0px;
+        padding: 0%;
+        background-color: blueviolet;
+        font-size: 15px;
+        width: 100px;
+        position: relative;
+        text-align: center;
+        right: 20px;
+        left: 750px;
+        top: 20px;
+        bottom: 100px;
+     }
+
+     .competence{
+          margin: 5px;
+          padding: 0px;
+          padding-left: 700px;
+          font-size: 30px;
+          left: 20px;
+          right: 10px;
+          top: 10px;
+          bottom: 150px;
+     }
+       .pose{
+            background-color: brown;
+            font-size: 20px;
+            height: 20px;
+            position: absolute;
+            bottom: 10px;
+            left:-160px;
+            margin: 170px;
+            padding:5px;
+            top: 550px;
+            width:160px;
+
+       }
+       .hello{
+        font-size: 40px;
+        position: relative;
+        height: 10px;;
+        right: 50px;
+        left: -60px;
+        top: 30px;
+        bottom: 10px;
+        margin:10px;
+        padding:10px;
+       }
+
+       .container{
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+        height: 10vh;
+        background-color:#000;
+    }
+    
+    .navbar{
+        width: 1200px;
+        height: 75px;
+        margin: auto;
+    }
+    
+    .icon{
+        width: 200px;
+        float: left;
+        height: 70px;
+    }
+    
+    .logo{
+        color: #ff0000;
+        font-size: 35px;
+        font-family: Arial;
+        padding-left: 20px;
+        float: left;
+        padding-top: 10px;
+    }
+    
+    .menu{
+        width: 400px;
+        float: left;
+        height: 70px;
+    }
+    
+    ul{
+        float: left;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    ul li{
+        list-style: none;
+        margin-left: 62px;
+        margin-top: 27px;
+        font-size: 14px;
+    }
+    
+    ul li a{
+        text-decoration: none;
+        color: #fff;
+        font-family: Arial;
+        font-weight: bold;
+        transition: 0.4s ease;
+    }
+    
+    ul li a:hover{
+        color: #ffff00;
+    }
+    
+    .search{
+        width: 330px;
+        float: left;
+        margin-left: 270px;
+    }
+    
+    .srch{
+        font-family: 'Times New Roman';
+        width: 200px;
+        height: 40px;
+        background: transparent;
+        border: 1px solid #008000 ;
+        margin-top: 13px;
+        color: #ffa500;
+        border-right: none;
+        font-size: 16px;
+        float: left;
+        padding: 15px;
+        border-bottom-left-radius: 7px;
+        border-top-left-radius: 7px;
+    }
+    
+    .btn{
+        width: 100px;
+        height: 40px;
+        background:#008000;
+        border: 2px solid  #008000;
+        margin-top: 13px;
+        color: #fff;
+        font-size: 13px;
+        border-bottom-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    
+    .btn:focus{
+        outline: none;
+    }
+    
+    .srch:focus{
+        outline: none;
+    }
+    
+    .btn:focus{
+        outline: none;
+    }
+    
+    .srch:focus{
+        outline: none;
+    }
+    
+       
+.ima{
+   margin: 100px;
+   padding:0%;
+   width: 50px;
+   height: 50px;
+   border: 0px solid  #008000;
+   margin-top: 50px;
+   color: #fff;
+   font-size: 100px;
+   
+}
